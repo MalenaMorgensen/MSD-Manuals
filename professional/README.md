@@ -1,1 +1,1 @@
-# MSD Manual Professional Version
+MSD Manual Professional Version

@@ -1,0 +1,1 @@
+# MSD Manual Consumer Version
